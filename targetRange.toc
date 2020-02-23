@@ -1,0 +1,4 @@
+## Interface: 11303
+## Title: targetRange
+## SavedVariables: rangeLock, trPoint, trRelativePoint, trxOfs, tryOfs
+targetRange.lua
